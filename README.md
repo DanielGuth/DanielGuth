@@ -1,9 +1,9 @@
 # Olá ! Me chamo Carlos Daniel Guth !
+
 <div align="center">
-  <a href="https://github.com/DanielGuth">
-  <img style  = 'color:blue;' height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGuth&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura"/>
-    <script>
-      ![Snake animation](https://github.com/DanielGuth/DanielGuth/blob/output/github-contribution-grid-snake.svg)
-    </script>
+ <a href="https://github.com/DanielGuth">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGuth&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGuth&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
  
