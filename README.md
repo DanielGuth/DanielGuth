@@ -1,7 +1,7 @@
 # Hello ! Welcome !
 <div align="center" style = 'display: inline_block'>
  <a href="https://github.com/DanielGuth">
- <img height="100em" src="https://github-readme-stats.vercel.app/api?username=danielguth&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=danielguth&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/>
 </div>
  
 
